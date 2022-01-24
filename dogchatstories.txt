@@ -1,0 +1,31 @@
+
+"A new dog can sign up for the app."
+
+A new dog goes to dogchat.com and clicks the sign up button.
+Dog gets directed to the sign up page. 
+Dog inputs its information (username, password, email, location) and clicks submit.
+Dog gets directed to the feed page, with a pop-up bar on top that tells it to check its email for the confirmation. 
+
+"A dog can become friends with another dog" 
+
+Suppose a dog is logged in, viewing the feed page.
+A dog can go to the search bar at the top and type another dog's name.
+After submitting, the dog gets redirected to the search results page, which shows all dogs with that name by order of connection (picture, name, location). After every name is a button to "add friend."
+After dog clicks on add friend, the button changes to "friend request submitted."
+After the other dog approves the request, the dog can see those friends' posts on his feed and his new dog friend on his friends list. 
+
+"A dog can browse his friends"
+
+Suppose a dog is logged in, viewing the feed page. On the top bar is a link to the friends page.
+A dog can click that link and get directed to the friends page, which is a list of all his/her dog friends (picture, name, location), ordered by most interacted with to least interacted with.
+A dog can sort his/her friends by name or location instead using a drop down above. 
+A dog has the option to click on any friend's name to check out his/her profile.  
+
+"A dog can send a bark to a friend"
+Suppose a dog is logged in, viewing the friends page. 
+A dog can click on any of his/her friends' profiles and see a page that shows: dog's picture, name, list of friends, and latest posts. 
+Next to the dog's name is a statement of how long they've been friends for + a button to send a bark.
+A dog can click the button, which sends a "bark" to that dog. 
+That other dog will receive a "bark" and can "send a bark back."
+
+
